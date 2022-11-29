@@ -1,0 +1,24 @@
+
+GSR sensor - electrical resistance of the skin
+
+a braslet witch contains a sensor to track the skinpressur (like a lie detector principle) triggers several little vibration motors around the user's wrist
+(https://www.instructables.com/Arduino-Emotion-Stress-Tester-%E6%AA%A2%E6%B8%AC%E6%83%85%E7%B7%92%E7%9A%84%E5%A3%93%E5%8A%9B%E6%84%9F%E6%B8%AC%E5%99%A8/)
+
+
+Stuff I'll need: 
+
+skinpressur sensor:
+https://www.reichelt.de/arduino-gsr-sensor-grv-gsr-sens-p191210.html?&nbc=1
+
+prototyping vibration motor: 
+https://www.reichelt.de/arduino-vibrationsmotor-grv-vibration-p191165.html?&trstct=pos_0&nbc=1
+
+4x vibration sensors:
+https://www.reichelt.de/dc-vibrationsmotor-3v-80ma-10000rpm-eku-vm1002a3-0-p330549.html?&trstct=pos_2&nbc=1
+
+4x vibration sensors:
+https://www.reichelt.de/dc-vibrationsmotor-3v-80ma-10000rpm-eku-vm-0702a3-0-p330524.html?&trstct=pos_2&nbc=1
+
+
+// maybe I'll also want to try with this sensor:
+https://www.reichelt.de/entwicklerboards-herzschlag-sensor-debo-sens-heart-p239108.html?&nbc=1
